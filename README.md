@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Arkadi-Dvir
+- 👀 I’m interested in Math and Computer science.
+- 🌱 I’m currently learning B.Sc in Math and Cs.
+- 💞️ I’m looking to collaborate on everything interesting.
